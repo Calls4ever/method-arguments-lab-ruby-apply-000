@@ -1,2 +1,2 @@
-def method
+def introduction
 end
